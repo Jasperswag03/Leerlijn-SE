@@ -1,0 +1,14 @@
+---
+title: Voorbeeld titel
+draft: false
+tags:
+  - voorbeeld-tag
+  - tweede tag
+description: voorbeeldbeschrijving van de pagina
+date: 2024-05-15
+aliases: 
+  - Alternatieve naam
+  - Andere naam
+---
+
+hallo
